@@ -1,4 +1,4 @@
-# 𝖉𝖊𝖈𝖎𝖇𝖊𝖑𝖉𝖊𝖘𝖙𝖗𝖔𝖞𝖊𝖗
+![𝖉𝖊𝖈𝖎𝖇𝖊𝖑𝖉𝖊𝖘𝖙𝖗𝖔𝖞𝖊𝖗](logo.png)
 
 A content-based recommendation engine for heavy metal bands, forged in blood and code.
 
